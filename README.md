@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Hayat 👋✨
 
-<!--
-**husshayat/husshayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🏥 Health Informatics | Licensed Pharmacy Technician | 🎓 B.S. Information Science, University of Maryland College Park**
 
-Here are some ideas to get you started:
+I'm passionate about analyzing healthcare data to drive better, patient-centered outcomes. With 4 years of experience as a licensed pharmacy technician, I bring a frontline understanding of medication workflows and patient care to my work in health informatics. I'm especially interested in the intersection of data, cybersecurity, and the pharmaceutical industry, and in keeping patient information safe while using it to improve care. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently
+- 🔍 Pursuing roles in health informatics and clinical information systems (Epic)
+- 🛡️ Interested in healthcare risk and compliance consulting
+- 📚 Studying for CompTIA Security+
+
+### 🧰 Skills
+**Data:** Building skills in SQL, Tableau, Excel, R Programming
+**Healthcare:** Pharmacy operations, medication workflows, health informatics  
+**Other:** Git, GitHub, Cerner, BD Pyxis
+
+### 📫 Contact
+- LinkedIn: [linkedin.com/in/husshayat/](https://www.linkedin.com/in/husshayat/)
+- Email: [husseinhayatt@gmail.com](mailto:husseinhayatt@gmail.com)
+- GitHub: [github.com/husshayat](https://github.com/husshayat)
