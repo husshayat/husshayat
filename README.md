@@ -1,4 +1,4 @@
-# Hi, I'm Hayat 👋✨
+# Hi, I'm Hayat 
 
 **🏥 Health Informatics | Licensed Pharmacy Technician | 🎓 B.S. Information Science, University of Maryland College Park**
 
